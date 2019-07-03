@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560583176 source:e:\programs\codeblocks\my program\embedded course\c programing\session 1\1-my first reservation\main.c
+	<stdio.h>
+	<stdlib.h>
+
